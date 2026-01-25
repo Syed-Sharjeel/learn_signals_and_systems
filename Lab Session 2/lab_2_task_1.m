@@ -14,4 +14,5 @@ part_a = A*b % Multiplies both vectors into rows * columns
 part_b = a+4 % Adds a scalar '4' in each element of vector
 part_c = b*a % Multiplies both vectors into rows * columns (same as part (a))
 part_d = a.*b.' % the keywords ".'" after any vector converts the vector into it's transpose 
+
 part_e = A * a.' % the keywords ".'" after any vector converts the vector into it's transpose (same as part (d))
