@@ -1,0 +1,18 @@
+% Initialization of Matrices
+% Semi-colon ";" indicates the completion of row.
+A = [2 9 0 0; 
+     0 4 1 4;
+     7 5 5 1;
+     7 8 7 4;];
+b = [-1;
+      6;
+      0;
+      9;];
+a = [3 -2 4 -5];
+
+part_a = A*b % Multiplies both vectors into rows * columns
+part_b = a+4 % Adds a scalar '4' in each element of vector
+part_c = b*a % Multiplies both vectors into rows * columns (same as part (a))
+b_transpose = b.';
+part_d = a.*b.' % the keywords ".'" after any vector converts the vector into it's transpose 
+part_e = A * a.' % the keywords ".'" after any vector converts the vector into it's transpose (same as part (d))
