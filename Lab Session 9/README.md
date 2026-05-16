@@ -60,10 +60,11 @@ This produces the output signal.
 $$
 x(t)=
 \begin{cases}
-0.5, & 2<t<4 \\\\
+0.5, & 2 < t < 4 \\
 0, & \text{otherwise}
 \end{cases}
 $$
+
 This is a rectangular pulse of amplitude $$0.5$$.
 
 ## Impulse Response
@@ -276,5 +277,3 @@ Full overlap has occurred and starts decreasing exponentially.
 | Understanding | Better conceptual clarity | Better simulation capability |
 
 Both methods produce nearly identical graphs, validating the correctness of the convolution operation.
-
-- Graphical interpretation of signal overlap
