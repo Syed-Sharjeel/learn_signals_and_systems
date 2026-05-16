@@ -2,8 +2,6 @@
 
 This repository contains **lab tasks, exercises, and supporting MATLAB/Simulink files** for the course **Signals & Systems (EE-232)** offered by the **Department of Electrical Engineering, NED University of Engineering & Technology**.
 
-The repository is created as a **learning aid and reference guide** for juniors and classmates. Content will be **updated weekly** according to the official lab schedule.
-
 ---
 
 ## Purpose of This Repository
